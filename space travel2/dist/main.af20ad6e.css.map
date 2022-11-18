@@ -1,1 +1,0 @@
-{"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA","sources":["src/main.css"],"sourcesContent":["body {\r\n    width: 100vw;\r\n    height: 100vh;\r\n    margin: 0;\r\n    background: black;\r\n    overflow: hidden;\r\n  }"],"names":[],"version":3,"file":"main.af20ad6e.css.map","sourceRoot":"/__parcel_source_root/"}
